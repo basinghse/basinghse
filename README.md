@@ -53,7 +53,7 @@
     <a href="https://brave.com/"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
 </p>
 
-#### 🗄️ DevOps & Agile Tools
+#### 🌀 DevOps & Agile Tools
 <p>
     <a href="https://docs.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
