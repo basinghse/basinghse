@@ -43,28 +43,31 @@
 <!--     <a href="https://playwright.dev/docs/intro"><img alt="Playwright" src=""></a> -->
 </p>
 
-<!--
 #### 🗄️ Databases and Cloud Hosting
 <p>
-    <a href="https://docs.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://cloud.google.com/docs"><img alt="Google Cloud Platform (GCP)" src=""></a>
-    <a href="https://firebase.google.com/docs"><img alt="Firebase" src=""></a>
-    <a href="https://vercel.com/docs"><img alt="Vercel" src=""></a>
-    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://docs.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://cloud.google.com/docs/application-hosting"><img alt="Google Cloud Platform (GCP)" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
+    <a href="https://firebase.google.com/docs/build"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00.svg?logo=firebase"></a>
+    <a href="https://vercel.com/docs"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel"></a>
+    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222.svg?logo=githubpages">
+</a>
 </p>
 
 #### 🛠️ Development Tools
 <p>
       <a href="https://code.visualstudio.com/docs"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://create-react-app.dev/docs/getting-started"><img alt="Create React App" src=""></a>
-    <a href="https://vitejs.dev/guide/"><img alt="Vite" src=""></a>
-      <a href="#"><img alt="GitLab Web IDE" src=""></a>
+    <a href="https://create-react-app.dev/docs/getting-started"><img alt="Create React App" src="https://img.shields.io/badge/Create_React_App-09D3AC.svg?logo=createreactapp&logoColor=white"></a>
+    <a href="https://vitejs.dev/guide/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
+</a>
+    <a href="#"><img alt="GitLab Web IDE" src="https://img.shields.io/badge/GitLab_Web_IDE-FC6D26.svg?logo=gitlab&logoColor=white"></a>
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src=""></a>
-    <a href="https://www.sourcetreeapp.com/"><img alt="Sourcetree" src=""></a>
+    <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub_Desktop-6e5494.svg?logo=github"></a>
+    <a href="https://www.sourcetreeapp.com/"><img alt="Sourcetree" src="https://img.shields.io/badge/SourceTree-0052CC.svg?logo=sourcetree">
+</a>
 </p>
 
+<!-- 
 #### 🌐 Utilities
 <p>
     <a href="https://learning.postman.com/docs/getting-started/introduction/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
