@@ -14,6 +14,10 @@
     <a href="https://reactjs.org/docs/getting-started.html"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
     <a href="https://reactrouter.com/en/main"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245.svg?logo=reactrouter&logoColor=white"></a>
     <a href="https://react-hook-form.com/get-started"><img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990.svg?logo=reacthookform&logoColor=white"></a>
+    <a href="https://testing-library.com/docs/react-testing-library/intro/"><img alt="React Testing Library" src="https://img.shields.io/badge/React_Testing_Library-E33332.svg?logo=testinglibrary&logoColor=white"></a>
+    <a href="https://jestjs.io/docs/getting-started"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
+    <a href="https://docs.cypress.io/guides/overview/why-cypress"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7.svg?logo=cypress&logoColor=white"></a>
+<!--     <a href="https://playwright.dev/docs/intro"><img alt="Playwright" src=""></a> -->
     <a href="https://mui.com/getting-started/installation/"><img alt="Material UI" src="https://img.shields.io/badge/Material_UI-%23007FFF.svg?logo=mui&logoColor=white"></a>
 <!--     <a href="https://tailwindcss.com/docs"><img alt="Tailwind CSS" src=""></a> -->
     <a href="https://www.figma.com/resources/learn-design/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a> 
@@ -33,14 +37,6 @@
     <a href="https://mongoosejs.com/docs/guide.html"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose_ODM-880000.svg?logo=mongoose"></a>
     <a href="https://handlebarsjs.com/guide/"><img alt="Handlebars" src="https://img.shields.io/badge/Handlebars.js-000000.svg?logo=handlebarsdotjs"></a>
 <!--     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img alt="WebSockets" src=""></a> need to edit this link -->
-</p>
-
-#### 🧪 Testing Frameworks
-<p>
-    <a href="https://jestjs.io/docs/getting-started"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <a href="https://testing-library.com/docs/react-testing-library/intro/"><img alt="React Testing Library" src="https://img.shields.io/badge/React_Testing_Library-E33332.svg?logo=testinglibrary&logoColor=white"></a>
-    <a href="https://docs.cypress.io/guides/overview/why-cypress"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7.svg?logo=cypress&logoColor=white"></a>
-<!--     <a href="https://playwright.dev/docs/intro"><img alt="Playwright" src=""></a> -->
 </p>
 
 #### 🗄️ Databases and Cloud Hosting
