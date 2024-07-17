@@ -8,7 +8,7 @@
 #### 🎨 Front-end
 <p>
     <a href="https://www.typescriptlang.org/docs/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript (ES6+)" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript (ES6+)" src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://reactjs.org/docs/getting-started.html"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
