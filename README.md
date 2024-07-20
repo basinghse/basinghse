@@ -46,8 +46,9 @@
     <a href="https://code.visualstudio.com/docs"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://create-react-app.dev/docs/getting-started"><img alt="Create React App" src="https://img.shields.io/badge/Create_React_App-09D3AC.svg?logo=createreactapp&logoColor=white"></a>
     <a href="https://vitejs.dev/guide/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
-    <a href="#"><img alt="GitLab Web IDE" src="https://img.shields.io/badge/GitLab_Web_IDE-FC6D26.svg?logo=gitlab&logoColor=white"></a>
+    <a href="https://classic.yarnpkg.com/lang/en/docs/"><img alt="Yarn" src="https://img.shields.io/badge/Yarn_Package_Manager-2C8EBB?logo=yarn&logoColor=white">
     <a href="https://git-scm.com/docs"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://docs.gitlab.com/ee/user/project/web_ide/"><img alt="GitLab Web IDE" src="https://img.shields.io/badge/GitLab_Web_IDE-FC6D26.svg?logo=gitlab&logoColor=white"></a>
     <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub_Desktop-6e5494.svg?logo=github"></a>
     <a href="https://confluence.atlassian.com/get-started-with-sourcetree"><img alt="SourceTree" src="https://img.shields.io/badge/SourceTree-0052CC.svg?logo=sourcetree"></a>
     <a href="https://learning.postman.com/docs/getting-started/introduction/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
